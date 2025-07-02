@@ -100,10 +100,9 @@ Oracle DB와 연동하여 실제 기업 환경에서 사용할 수 있는 완전
   </tr>
   <tr>
     <td align="center">
-      <img src="(https://github.com/user-attachments/assets/526c5531-da97-47dd-ab74-fa7962b7afd3"  width="400"/>
+      <img src="https://github.com/user-attachments/assets/526c5531-da97-47dd-ab74-fa7962b7afd3"  width="400"/>
       <br><br><b></b>
     </td>
-
     <td align="center">
       <img src="https://github.com/user-attachments/assets/252cdbfa-2e99-42d4-87d3-f10437c8e7f2"  width="400"/>
       <br><br><b></b>
