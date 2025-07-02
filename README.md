@@ -67,18 +67,21 @@ Oracle DB와 연동하여 실제 기업 환경에서 사용할 수 있는 완전
 ## ✨ 주요 기능 소개
 
 ### 👥 사원 기능
-- 👤 개인 정보 조회 및 확인
-- ✏️ 본인 정보 일부 수정 (연락처, 주소 등)
-- 🔐 비밀번호 변경
-- 📋 근태 등록
+- 근태 등록
+- 개인 정보 조회 
+- 본인 정보 일부 수정 (연락처, 주소 등), 비밀번호 변경
+- 급여 검색 및 조회
+- 문서 공유
 
 ### 👨‍💼 관리자 기능
-- 📊 전체 사원 관리 대시보드
-- ➕ 신규 사원 등록
-- 📝 사원 정보 수정/삭제
-- 🔍 사원 정보 검색 및 조회
-- 📈 부서별/직급별 통계
-- 🗂️ 사원 데이터 내보내기
+- 전체 사원 근태 관리 대시보드
+- 신규 사원 등록
+- 사원 정보 검색 및 조회
+- 사원 정보 수정/삭제
+- 급여 지급 및 관리
+- 부서별/직급별 통계
+- 부서 생성 및 관리
+- 공유 문서 조회 및 관리
 
 
 <br/>
@@ -92,6 +95,17 @@ Oracle DB와 연동하여 실제 기업 환경에서 사용할 수 있는 완전
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3269687b-6b00-42ac-88c8-3be9ecb4d9ea"  width="400"/>
+      <br><br><b></b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="(https://github.com/user-attachments/assets/526c5531-da97-47dd-ab74-fa7962b7afd3"  width="400"/>
+      <br><br><b></b>
+    </td>
+
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/252cdbfa-2e99-42d4-87d3-f10437c8e7f2"  width="400"/>
       <br><br><b></b>
     </td>
   </tr>
